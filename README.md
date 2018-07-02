@@ -1,4 +1,5 @@
 ![ASCII Art Banner](images/banner.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmatthew-mcateer%2FGrid.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmatthew-mcateer%2FGrid?ref=badge_shield)
 
 [![Chat on Slack](https://img.shields.io/badge/chat-on%20slack-7A5979.svg)](https://openmined.slack.com/messages/grid)
 
@@ -177,3 +178,5 @@ If everything looks good to you, submit the PR.
 ## License
 
 [Apache License 2.0](https://github.com/OpenMined/Grid/blob/master/LICENSE)
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmatthew-mcateer%2FGrid.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmatthew-mcateer%2FGrid?ref=badge_large)
